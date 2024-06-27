@@ -18,18 +18,18 @@ react 를 사용해 온라인 신발 쇼핑몰 입니다
    localstorge 가 비어있다면 "배열이 없음" 문구가 출력됩니다<br>
    
 사용 라이브러리 
-├── @reduxjs/toolkit@2.2.5
-├── @testing-library/jest-dom@5.17.0
-├── @testing-library/react@13.4.0
-├── @testing-library/user-event@13.5.0
-├── axios@1.7.2
-├── bootstrap@5.3.3
-├── react-bootstrap@2.10.2
-├── react-dom@18.3.1
-├── react-query@3.39.3
-├── react-redux@9.1.2
-├── react-router-dom@6.23.1
-├── react-scripts@5.0.1
-├── react@18.3.1
-├── styled-components@6.1.11
-└── web-vitals@2.1.4
+├── @reduxjs/toolkit@2.2.5 <br>
+├── @testing-library/jest-dom@5.17.0<br>
+├── @testing-library/react@13.4.0<br>
+├── @testing-library/user-event@13.5.0<br>
+├── axios@1.7.2<br>
+├── bootstrap@5.3.3<br>
+├── react-bootstrap@2.10.2<br>
+├── react-dom@18.3.1<br>
+├── react-query@3.39.3<br>
+├── react-redux@9.1.2<br>
+├── react-router-dom@6.23.1<br>
+├── react-scripts@5.0.1<br>
+├── react@18.3.1<br>
+├── styled-components@6.1.11<br>
+└── web-vitals@2.1.4<br>
